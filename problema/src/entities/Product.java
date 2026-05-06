@@ -1,0 +1,20 @@
+package entities;
+
+public class Product {
+    public String name;
+    public double price;
+    public int quantity;
+
+    public double TotalValueInStock(){
+        return price * quantity;
+    }
+
+    public void  AddProducts(int quantity){
+        this.quantity += quantity;// Atributo da Classe
+    }
+
+    public void RemoveProduct(int quantity){
+        this.quantity -= quantity;
+    }
+
+}
