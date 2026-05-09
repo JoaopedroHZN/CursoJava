@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3b3be5-c767-41b9-a49a-b95e6c8fa237" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/application/Progam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/HourContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entitiesEnum/WorkerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application/Progam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/HourContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entitiesEnum/WorkerLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumeracao/enumeracao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumeracao/src/application/Progam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumeracao/src/entitiesEnums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JoaopedroHZN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JoaopedroHZN/CursoJava.git",
+    "accountId": "6929663d-ce24-4c32-bdd7-7fe8a2360e82"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/entities/Worker.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DT2OoDVoQJDsergMZuUn9CACuq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Progam.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/joaopedro/Área de trabalho/CursoJava/ExercicioComp",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3b3be5-c767-41b9-a49a-b95e6c8fa237" name="Changes" comment="" />
+      <created>1778291710237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778291710237</updated>
+    </task>
+    <servers />
+  </component>
+</project>
