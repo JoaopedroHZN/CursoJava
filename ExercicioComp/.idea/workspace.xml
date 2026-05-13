@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed3b3be5-c767-41b9-a49a-b95e6c8fa237" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/Progam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entitiesEnum/WorkerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application/Progam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entities/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entities/HourContract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entities/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/entitiesEnum/WorkerLevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../enumeracao/enumeracao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../enumeracao/src/application/Progam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../enumeracao/src/entitiesEnums/OrderStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+    <list default="true" id="ed3b3be5-c767-41b9-a49a-b95e6c8fa237" name="Changes" comment="Exercicio de Composicao e calculo de ganhos do trabalhador">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JoaopedroHZN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JoaopedroHZN&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JoaopedroHZN/CursoJava.git",
-    "accountId": "6929663d-ce24-4c32-bdd7-7fe8a2360e82"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JoaopedroHZN/CursoJava.git&quot;,
+    &quot;accountId&quot;: &quot;6929663d-ce24-4c32-bdd7-7fe8a2360e82&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/entities/Worker.java" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DT2OoDVoQJDsergMZuUn9CACuq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -84,7 +58,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/joaopedro/Área de trabalho/CursoJava/ExercicioComp",
+    "last_opened_file_path": "/home/joaopedro/Área de trabalho/CursoJava",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -96,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1778291710237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicio de Composicao e calculo de ganhos do trabalhador">
+      <option name="closed" value="true" />
+      <created>1778297818849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778297818849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicio de Composicao e calculo de ganhos do trabalhador" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio de Composicao e calculo de ganhos do trabalhador" />
   </component>
 </project>
