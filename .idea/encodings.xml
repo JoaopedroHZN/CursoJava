@@ -3,5 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ExercicioComp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ExercicioComp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Polimorfismo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Polimorfismo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blocoFinally/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blocoFinally/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try/src/main/resources" charset="UTF-8" />
   </component>
 </project>

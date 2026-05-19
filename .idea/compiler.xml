@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="blocoFinally" />
+        <module name="hotel" />
+        <module name="try" />
         <module name="ExercicioComp" />
+        <module name="Polimorfismo" />
       </profile>
     </annotationProcessing>
   </component>

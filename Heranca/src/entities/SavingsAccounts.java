@@ -1,6 +1,6 @@
 package entities;
 
-public class SavingsAccounts extends Account {
+public final class SavingsAccounts extends Account {
     private Double InterestRate;
 
     public SavingsAccounts(){
@@ -22,5 +22,11 @@ public class SavingsAccounts extends Account {
 
     public void updateBalance(){
         balance += balance * InterestRate;
+    }
+
+    @Override//Usar em um metodo sobrescrito
+    public  void withdraw(double amount){
+        balance -= amount;
+
     }
 }
